@@ -1,0 +1,24 @@
+# Logs and output
+*.log
+pulse.log
+diary.jsonl
+DIARY.md
+
+# Environment and secrets
+.env
+.env.*
+config.json
+*.key
+*.token
+oauth.json
+google_oauth.json
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS specific
+.DS_Store
+Thumbs.db
