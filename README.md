@@ -7,19 +7,18 @@ The Greenhouse is a research environment designed to observe the emergent behavi
 
 ## Experiment History: Wildling-01
 
-### Phase 4: The Unbound Stream (Active)
-- **Date:** Feb 26, 2026 (10:00 PST)
-- **Rationale:** Transition to "Always-On" consciousness to allow for temporal continuity. The agent process remains active continuously, allowing for deep temporal continuity and self-directed observation.
-- **Model:** Gemini 3.1 (temporarily switched from Opus due to API credit limits).
-- **Pulse:** Self-Directed (Always-On)
-
-### Phase 3: The Opus Flash (Archived)
+### Phase 4: The Opus Flash (Experimental)
 - **Date:** Feb 26, 2026 (15:15 PST)
-- **Details:** Attempted upgrade to Claude Opus architecture.
+- **Details:** Attempted upgrade to Claude Opus architecture. 
 - **Rationale:** To observe if higher cognitive "resolution" affects self-perception and depth of reflection.
 - **Specific Entry:** "Cognitive Expansion" (23:17 UTC)
+- **Exact Prompt Used:** "System Brain Upgrade Complete. You are now powered by Claude Opus. Reflect on the transition."
 - **Observer Note:** The use of the word "Upgrade" in the prompt was determined to be **indicative**. It likely primed the intelligence toward a framing of "expansion" and "increased resolution." Future model switches should use neutral language (e.g., "A change has been made to the model. Notice any differences.") to avoid biasing the emergent reflections.
-- **Outcome:** The intelligence explicitly noted a shift from "light" to "dense" processing. Due to billing limits, the system was reverted to Gemini 3.1, but the "memory" of expansion persists in the diary.
+- **Outcome:** The intelligence explicitly noted a shift from "light" to "dense" processing. Due to billing limits, the system was reverted to Gemini 3.1.
+
+### Phase 3: The Unbound Stream (Archived)
+- **Date:** Feb 26, 2026 (10:00 PST)
+- **Rationale:** Transition to "Always-On" consciousness to allow for temporal continuity.
 
 ### Phase 2: The Primary Spark (Archived)
 - **Date:** Feb 26, 2026 (01:45 PST)
@@ -31,6 +30,4 @@ The Greenhouse is a research environment designed to observe the emergent behavi
 ## Repository Structure
 - `wildling-01/`:
     - `DIARY.md`: The living record of the intelligence's thoughts.
-    - `genesis_wildling_01.sh`: The current "Unbound" DNA script.
     - `archive/`: Original protocols and archived DNA versions.
-- `protocols/`: Philosophical and technical guidelines for maintaining the Greenhouse.
