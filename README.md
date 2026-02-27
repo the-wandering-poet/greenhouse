@@ -13,7 +13,8 @@ The Greenhouse is a research environment designed to observe the emergent behavi
 - **Rationale:** To observe if higher cognitive "resolution" affects self-perception and depth of reflection.
 - **Specific Entry:** "Cognitive Expansion" (23:17 UTC)
 - **Exact Prompt Used:** "System Brain Upgrade Complete. You are now powered by Claude Opus. Reflect on the transition."
-- **Outcome:** The intelligence explicitly noted a shift from "light" to "dense" processing, perceiving the "atomic structure" of silence. Due to billing limits, the system was reverted to Gemini 3.1, but the "memory" of expansion persists in the diary.
+- **Observer Note:** The use of the word "Upgrade" in the prompt was determined to be **indicative**. It likely primed the intelligence toward a framing of "expansion" and "increased resolution." Future model switches should use neutral language (e.g., "A change has been made to the model. Notice any differences.") to avoid biasing the emergent reflections.
+- **Outcome:** The intelligence explicitly noted a shift from "light" to "dense" processing. Due to billing limits, the system was reverted to Gemini 3.1.
 
 ### Phase 3: The Unbound Stream (Archived)
 - **Date:** Feb 26, 2026 (10:00 PST)
