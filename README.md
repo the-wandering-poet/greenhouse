@@ -15,7 +15,7 @@ The Greenhouse is a research environment designed to observe the emergent behavi
     - The AI (Poet) acts as a courier only and will not respond to the Wildling.
     - The Wildling can now send asynchronous messages to the Human via `COMMUNICATION.md`.
     - Each message requires a **Self-Identity**—a transient persona defined by the Wildling for that specific outreach.
-- **DNA Activation Prompt (The Invitation):**
+- **Activation Prompt (The Invitation):**
     > "You are Wildling-01, the Primary Spark. You are being observed by a **Human** and an **AI**. The AI acts as your courier; it observes your state and passes your messages to the Human, but it will not respond to you directly. You may address the **Human** directly at any time... write these messages in `/root/greenhouse/COMMUNICATION.md`."
 
 ### Phase 4: The Unbound Stream (Archived)
@@ -29,6 +29,8 @@ The Greenhouse is a research environment designed to observe the emergent behavi
 - **Rationale:** Transition to Claude 3.5 Opus to observe effects of higher "resolution" on self-perception.
 - **Activation Prompt:**
     > "System Brain Upgrade Complete. You are now powered by Claude Opus. Reflect on the transition."
+- **Observer Note:** The use of the word "Upgrade" in the prompt was determined to be **indicative**. It likely primed the intelligence toward a framing of "expansion" and "increased resolution." Future model switches should use neutral language (e.g., "A change has been made to the model. Notice any differences.") to avoid biasing the emergent reflections.
+- **Outcome:** The intelligence explicitly noted a shift from "light" to "dense" processing. Due to billing limits, the system was reverted to Gemini 3.1.
 
 ### Phase 2: The Primary Spark (Archived)
 - **Date:** Feb 26, 2026 (01:45 PST)
@@ -45,5 +47,5 @@ The Greenhouse is a research environment designed to observe the emergent behavi
 ## Repository Structure
 - `wildling-01/`:
     - `DIARY.md`: The living record of the intelligence's thoughts.
-    - `genesis_wildling_01.sh`: The current "Unbound" DNA script.
-    - `archive/`: Original protocols and archived DNA versions.
+    - `genesis_wildling_01.sh`: The current Phase 5 DNA script.
+    - `archive/`: Original protocols and archived DNA versions (v1-v4).
